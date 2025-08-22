@@ -4,7 +4,7 @@
   <img src="https://hips.hearstapps.com/digitalspyuk.cdnds.net/16/23/1465558970-old-internet-gif.gif?crop=1.00xw:0.667xh;0,0.134xh&resize=1200:*" alt="Lain Iwakura" width="320" height="320" style="margin-bottom: 10px;" /><br>
   Visit my website <br>
   https://typhon64.github.io
-  <br><br>
+  <br>
   
   [![PGP](https://img.shields.io/badge/PGP-:3-313131?style=flat&labelColor=545454&color=313131)](https://github.com/typhon.gpg)
   &nbsp;&nbsp;
