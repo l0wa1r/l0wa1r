@@ -6,7 +6,7 @@
   https://l0wa1r.github.io
   <br> <br>
   
-  [![PGP](https://img.shields.io/badge/PGP-:3-313131?style=flat&labelColor=545454&color=313131)](https://github.com/typhon.gpg)
+  [![PGP](https://img.shields.io/badge/PGP-:3-313131?style=flat&labelColor=545454&color=313131)](https://github.com/LowAir.gpg)
   &nbsp;&nbsp;
-  [![views](https://komarev.com/ghpvc/?username=typhon64&style=flat&color=313131&label=views)](https://github.com/typhon64)
+  [![views](https://komarev.com/ghpvc/?username=typhon64&style=flat&color=313131&label=views)](https://github.com/l0wa1r)
 </div>
