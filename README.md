@@ -7,13 +7,8 @@
   
   <a href="https://l0wa1r.github.io" target="_blank" style="text-decoration: none; color: #58a6ff;">https://l0wa1r.github.io</a>
 
-  <br><br>
-
-  <a href="https://l0wa1r.github.io">
-    <img src="https://img.shields.io/badge/Copy%20Link-2ea44f?style=for-the-badge&logo=link&logoColor=white" alt="Copy Link" />
-  </a>
-
-  <br><br>
+  <br>
+  <br>
 
   <div align="center">
     <a href="https://github.com/l0wa1r.gpg"><img src="https://img.shields.io/badge/PGP-:3-313131?style=flat&labelColor=545454&color=313131" alt="PGP" /></a>
