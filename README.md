@@ -11,5 +11,6 @@
   <div align="center">
     <a href="https://github.com/l0wa1r.gpg"><img src="https://img.shields.io/badge/PGP-:3-313131?style=flat&labelColor=545454&color=313131" alt="PGP" /></a>
     <a href="https://github.com/l0wa1r"><img src="https://komarev.com/ghpvc/?username=typhon64&style=flat&color=313131&label=views" alt="views" /></a>
+    <!-- Yes, typhon64 is my old username -->
   </div>
 </div>
