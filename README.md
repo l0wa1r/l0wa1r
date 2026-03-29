@@ -6,8 +6,6 @@
   <p style="margin-bottom: 5px;">Visit my website</p>
   
   <a href="https://l0wa1r.github.io" target="_blank" style="text-decoration: none; color: #58a6ff;">https://l0wa1r.github.io</a>
-
-  <br>
   <br>
 
   <div align="center">
