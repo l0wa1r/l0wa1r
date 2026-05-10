@@ -3,10 +3,10 @@
 
   <img src="https://hips.hearstapps.com/digitalspyuk.cdnds.net/16/23/1465558970-old-internet-gif.gif?crop=1.00xw:0.667xh;0,0.134xh" alt=":3" width="350" style="display: block; margin: 0 auto;" />
 
-  <p style="margin-bottom: 5px;">Visit my website</p>
-  
-  <a href="https://l0wa1r.github.io" target="_blank" style="text-decoration: none; color: #58a6ff;">https://l0wa1r.github.io</a>
-  <br>
+  <!-- Anchor Text Güncellemesi: Görünür metni "lowair" yaparak SEO desteği sağladık -->
+  <p style="margin-bottom: 5px;">Visit my website:</p>
+  <a href="https://l0wa1r.github.io" target="_blank" style="text-decoration: none; color: #58a6ff; font-weight: bold; font-size: 18px;">lowair</a>
+  <br><br>
 
   <div align="center">
     <a href="https://github.com/l0wa1r.gpg"><img src="https://img.shields.io/badge/PGP-:3-313131?style=flat&labelColor=545454&color=313131" alt="PGP" /></a>
