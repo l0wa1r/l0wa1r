@@ -5,7 +5,7 @@
 
   <!-- Anchor Text Güncellemesi: Görünür metni "lowair" yaparak SEO desteği sağladık -->
   <p style="margin-bottom: 5px;">Visit my website:</p>
-  <a href="https://l0wa1r.github.io" target="_blank" style="text-decoration: none; color: #58a6ff; font-weight: bold; font-size: 14px;">lowair</a>
+  <a href="https://vxnerv.github.io" target="_blank" style="text-decoration: none; color: #58a6ff; font-weight: bold; font-size: 14px;">vxNervr</a>
   <br> <br>
 
   <div align="center">
