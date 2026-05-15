@@ -5,12 +5,12 @@
 
   <!-- Anchor Text Güncellemesi: Görünür metni "lowair" yaparak SEO desteği sağladık -->
   <p style="margin-bottom: 5px;">Visit my website:</p>
-  <a href="https://invepxt.github.io" target="_blank" style="text-decoration: none; color: #58a6ff; font-weight: bold; font-size: 14px;">Invepxt</a>
+  <a href="https://pxecore.github.io" target="_blank" style="text-decoration: none; color: #58a6ff; font-weight: bold; font-size: 14px;">PxeCore</a>
   <br> <br>
 
   <div align="center">
-    <a href="https://github.com/invepxt.gpg"><img src="https://img.shields.io/badge/PGP-:3-313131?style=flat&labelColor=545454&color=313131" alt="PGP" /></a>
-    <a href="https://github.com/invepxt"><img src="https://komarev.com/ghpvc/?username=typhon64&style=flat&color=313131&label=views" alt="views" /></a>
+    <a href="https://github.com/pxecore.gpg"><img src="https://img.shields.io/badge/PGP-:3-313131?style=flat&labelColor=545454&color=313131" alt="PGP" /></a>
+    <a href="https://github.com/pxecore"><img src="https://komarev.com/ghpvc/?username=typhon64&style=flat&color=313131&label=views" alt="views" /></a>
     <!-- Yes, typhon64 is my old username -->
   </div>
 </div>
